@@ -1,4 +1,4 @@
-![Graphical Abstract](img/Graphical%20Abstract.png)
+![Graphical Abstract](img/Graphical%20Abstract_new.png)
 
 🌐 [En](#en) | 🇰🇷 [Ko](#ko)
 
