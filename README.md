@@ -1,7 +1,17 @@
 ![Graphical Abstract](img/Graphical%20Abstract_new.png)
 
-🌐 [En](#en) | 🇰🇷 [Ko](#ko)
+🌐 [En](#en) | [Ko](#ko)
+---
 
+## 📄 Paper
+
+**TDiff-HSI: Tucker-guided diffusion for high-dimensional RGB-to-HSI image generation**  
+Jaeik Bae, Yong-Gu Lee  
+*Journal of Computational Design and Engineering*, 13(2), 197–212, 2026  
+
+🔗 https://doi.org/10.1093/jcde/qwag008
+
+---
 <a id="en"></a>
 ## Model and Dataset Release 🚀
 
@@ -143,7 +153,11 @@ Checkpoints will be saved under `/app/weights` at the configured intervals.
 <a id="en-paper"></a>
 ### 📄 Paper
 
-Paper: <TBA>
+**TDiff-HSI: Tucker-guided diffusion for high-dimensional RGB-to-HSI image generation**  
+Jaeik Bae, Yong-Gu Lee  
+*Journal of Computational Design and Engineering*, 13(2), 197–212, 2026  
+
+🔗 https://doi.org/10.1093/jcde/qwag008
 
 <a id="en-contact"></a>
 ### ✉️ Contact
@@ -315,7 +329,11 @@ torchrun --standalone --nnodes=1 --nproc_per_node=4 \
 <a id="ko-paper"></a>
 ### 📄 논문
 
-논문: <TBA>
+**TDiff-HSI: Tucker-guided diffusion for high-dimensional RGB-to-HSI image generation**  
+Jaeik Bae, Yong-Gu Lee  
+Journal of Computational Design and Engineering, 13(2), 197–212, 2026  
+
+🔗 https://doi.org/10.1093/jcde/qwag008
 
  
 
